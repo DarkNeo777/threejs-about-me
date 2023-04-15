@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="16" height="16">
+  <title>Color Wheel</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M48.3 15.7a16.8 16.8 0 1 0 .8 5.3 17 17 0 0 0-.8-5.3z" fill="#c328d6"></path>
+  <path data-name="layer2" d="M61.1 37.7a17 17 0 0 0-12.9-11.4 17 17 0 0 1-19.4 11.4 17 17 0 1 0 32.3 0z"
+  fill="#d21616"></path>
+  <path data-name="layer1" d="M28.8 37.7a16.2 16.2 0 0 0 6.3 0A17 17 0 1 0 32 54a16.9 16.9 0 0 1-3.2-16.3z"
+  fill="#54dc4b"></path>
+  <path data-name="opacity" d="M35.1 37.7a16.6 16.6 0 0 1-6.3 0A16.9 16.9 0 0 0 31.9 54a16.9 16.9 0 0 0 3.2-16.2zm-6.3 0a17 17 0 0 1 3.1-5.7 16.9 16.9 0 0 0-16.1-5.7 17 17 0 0 0 13 11.4z"
+  opacity=".2"></path>
+  <path data-name="opacity" d="M31.9 32a16.9 16.9 0 0 1 3.2 5.7 17 17 0 0 0 13-11.4A16.9 16.9 0 0 0 31.9 32z"
+  opacity=".2"></path>
+  <path data-name="opacity" d="M28.8 37.7a16.6 16.6 0 0 0 6.3 0 16.9 16.9 0 0 0-3.2-5.7 17 17 0 0 0-3.1 5.7z"
+  opacity=".4"></path>
+  <path data-name="stroke" d="M45 32a17 17 0 0 1-9.8 5.7M22 34.8a17 17 0 1 1 26.2-8.5m-32.4 0a17 17 0 1 1-5.8 2.3M32 54a17 17 0 0 1-3.3-16m3.3-6a17 17 0 1 1 6 26.5"
+  fill="none" stroke="#093075" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>
