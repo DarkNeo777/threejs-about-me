@@ -4,10 +4,11 @@ Simple about me using three.js
 create a sphere and adds custom shader, which makes it look like a planet
 added rings around the sphere, also gave them similar shaders
 HTML content contains, photo avatar, name, hobbies, link to socials
+![about-me](https://user-images.githubusercontent.com/88498400/233763066-9ec81f33-4629-465f-a743-4675e8814499.gif)
 
 # Live Demo
 ---
-
+(https://myl8f1-4173.csb.app)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
