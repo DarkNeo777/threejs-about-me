@@ -23,3 +23,15 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+
+``` bash
+# view production build 
+npm run preview
+```
+### Troubleshoot
+sh: 1: vite : Permission denied
+``` bash
+# in terminal  
+npm rebuild
+```
